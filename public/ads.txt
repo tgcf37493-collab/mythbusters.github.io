@@ -1,0 +1,20 @@
+# ads.txt file for YBYMythBust
+# For Google AdSense compliance
+# Replace pub-XXXXXXXXXXXXXXXX with your actual AdSense publisher ID
+
+# Google AdSense
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Additional ad networks can be added below
+# Format: domain, publisher_id, relationship, certification_authority_id
+
+# Example for other networks:
+# media.net, 123456789, DIRECT
+# openx.com, 987654321, RESELLER
+# pubmatic.com, 123456, RESELLER, 5d62403b186f2ace
+
+# Instructions for setup:
+# 1. Replace pub-XXXXXXXXXXXXXXXX with your actual Google AdSense publisher ID
+# 2. Add any additional ad networks you work with
+# 3. Upload this file to your domain root (https://yourdomain.com/ads.txt)
+# 4. Verify the file is accessible and properly formatted

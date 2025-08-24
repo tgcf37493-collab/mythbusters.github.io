@@ -1,0 +1,26 @@
+[
+  {
+    "id": "228227e3-59a9-42a5-98c8-8541d2df54f9",
+    "name": "Health Myths",
+    "slug": "health-myths",
+    "description": "Debunking common health and nutrition myths",
+    "color": "#3B82F6",
+    "postCount": 0
+  },
+  {
+    "id": "aa84f964-2ed5-4499-9b9f-50a31a58b2f1",
+    "name": "Science Myths",
+    "slug": "science-myths",
+    "description": "Exploring scientific misconceptions",
+    "color": "#8B5CF6",
+    "postCount": 0
+  },
+  {
+    "id": "913fbcbd-e6e3-4b2c-8b3f-02d8540b02e3",
+    "name": "History Myths",
+    "slug": "history-myths",
+    "description": "Fact-checking historical beliefs",
+    "color": "#F59E0B",
+    "postCount": 0
+  }
+]

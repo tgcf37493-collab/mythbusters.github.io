@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ybymythbust.com/</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/about</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/contact</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Category Pages -->
+  <url>
+    <loc>https://ybymythbust.com/category/health-myths</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/category/science-myths</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/category/history-myths</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://ybymythbust.com/post/8-glasses-water-myth</loc>
+    <lastmod>2024-03-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/post/medieval-flat-earth</loc>
+    <lastmod>2024-03-12T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/post/lightning-strikes-twice</loc>
+    <lastmod>2024-03-10T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ybymythbust.com/post/brain-10-percent</loc>
+    <lastmod>2024-03-08T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
